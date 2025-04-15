@@ -1,0 +1,11 @@
+{
+  "user_name": "Felix",
+  "age": 35,
+  "investment_goals": "Diversify portfolio and hedge against inflation",
+  "risk_tolerance": "High",
+  "followed_stocks": ["GC=F", "SI=F"],
+  "preferred_sectors": ["Precious Metals", "Energy", "Industrial Metals", "Agriculture"],
+  "investment_horizon": "5-10 years",
+  "daily_check_frequency": "Twice a day",
+  "reaction_to_market_news": "Frequently adjusts positions based on geopolitical and supply chain news"
+}
